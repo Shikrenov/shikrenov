@@ -16,10 +16,10 @@
 <a href="https://twitter.com/shikrenov7128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shikrenov7128" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/peter shikrenov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter shikrenov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:20736657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20736657" height="30" width="40" /></a>
-<a href="https://fb.com/петър шикренов" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="петър шикренов" height="30" width="40" /></a>
+<a href="https://fb.com/петър шикренов" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Петър Шикренов" height="30" width="40" /></a>
 <a href="https://instagram.com/shikrenov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shikrenov" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shikrenov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shikrenov" height="30" width="40" /></a>
-<a href="https://discord.gg/#7922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7922" height="30" width="40" /></a>
+<a href="https://discord.gg/shikrenov#7922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7922" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
