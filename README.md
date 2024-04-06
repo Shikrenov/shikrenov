@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Peter Shikrenov</h1>
 <h3 align="center">A passionate web developer from Bulgaria</h3>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikrenov&label=Profile%20views&color=0e75b6&style=flat" alt="shikrenov" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shikrenov7128" target="blank"><img src="https://img.shields.io/twitter/follow/shikrenov7128?logo=twitter&style=for-the-badge" alt="shikrenov7128" /></a> </p>
