@@ -14,10 +14,5 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=Shikrenov&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Shikrenov&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shikrenov&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![](https://komarev.com/ghpvc/?username=Shikrenov&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
