@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- Hello, I’m Peter, a software engineer.
+- Hello, I’m Peter, a software developer.
 
 ## 🌐 Socials:
 
