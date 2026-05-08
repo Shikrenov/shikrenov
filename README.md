@@ -13,10 +13,12 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Shikrenov&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="left" src="https://github-readme-stats.shion.dev/api?username=Shikrenov&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"/>
 </p>
+
+<br clear="both"/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shikrenov&theme=github_dark&hide_border=false"/>
