@@ -12,7 +12,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=Shikrenov&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<br/>
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=Shikrenov&theme=github_dark&hide_border=false" height="180em" />
