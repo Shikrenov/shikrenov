@@ -1,6 +1,19 @@
 # 💫 About Me:
 
+<table>
+<tr>
+<td>
+
 - Hello, I’m Peter, a software developer.
+
+</td>
+<td>
+
+<img src="https://github.com/images/modules/search/dark2x.png" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 
