@@ -1,18 +1,6 @@
 # 💫 About Me:
 
-<table>
-<tr>
-<td>
-
 - Hello, I’m Peter, a software developer.
-
-</td>
-<td>
-
-<img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="250"/>
-</td>
-</tr>
-</table>
 
 ## 🌐 Socials:
 
@@ -24,7 +12,19 @@
 
 # 📊 GitHub Stats:
 
+<table>
+<tr>
+<td>
+
 ![](https://github-readme-stats.shion.dev/api?username=Shikrenov&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Shikrenov&theme=github_dark&hide_border=false)<br/>
 
+</td>
+<td>
+
+<img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
