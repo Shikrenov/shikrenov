@@ -12,14 +12,13 @@
 
 # 📊 GitHub Stats:
 
+![](https://github-readme-stats.shion.dev/api?username=Shikrenov&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=Shikrenov&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=Shikrenov&theme=github_dark&hide_border=false" height="180em" />
 
   <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" height="180em" align="right" />
 </p>
 
 <br clear="both"/>
-
-![](https://streak-stats.demolab.com/?user=Shikrenov&theme=github_dark&hide_border=false)<br/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
