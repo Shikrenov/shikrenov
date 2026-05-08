@@ -1,3 +1,23 @@
+<p align="center">
+
+  <img src="YOUR_BANNER_HERE" width="100%" />
+
+</p>
+
+<h1 align="center">Peter Shikrenov</h1>
+
+<h3 align="center">Software Engineer building modern web experiences.</h3>
+
+<p align="center">
+
+  <a href="https://github.com/Shikrenov">
+
+    <img src="https://komarev.com/ghpvc/?username=Shikrenov&color=blueviolet&style=flat" />
+
+  </a>
+
+</p>
+
 # 💫 About Me:
 
 - Hello, I’m Peter, a software developer.
