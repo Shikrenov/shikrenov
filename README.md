@@ -4,32 +4,6 @@ Hello, I’m Peter, a software developer focused on building web applications, a
 
 ---
 
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shikrenov/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-shikrenov-b283a7271)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shikrenov@proton.me)
-
----
-
-# 🚀 Featured Projects
-
-### Event Ticketing Platform
-
-Modern ticketing platform designed to replace outdated ticket-selling systems with flexible pricing, discounts, assigned seating, and organizer customization.
-
-**Tech:** Next.js, NestJS, PostgreSQL, GraphQL
-
----
-
-### Client Project Discovery Tool
-
-Tool created to help agencies and freelancers gather client preferences before development starts, reducing misunderstandings and revision cycles.
-
-**Tech:** React, TypeScript, TailwindCSS
-
----
-
 # 💻 Tech Stack
 
 ### Frontend
@@ -78,9 +52,3 @@ Tool created to help agencies and freelancers gather client preferences before d
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Shikrenov&theme=github_dark&hide_border=false" height="180em" />
-</p>
