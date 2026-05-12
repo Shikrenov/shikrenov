@@ -1,10 +1,14 @@
 # 💫 About Me:
 
-- Hello, I’m Peter, a software developer.
+Hello, I’m Peter, a software developer focused on building web applications, automation tools, and scalable digital products.
+
+---
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shikrenov/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/peter-shikrenov-b283a7271) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shikrenov@proton.me)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shikrenov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-shikrenov-b283a7271)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shikrenov@proton.me)
 
 ---
 
