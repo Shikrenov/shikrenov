@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 
 Hello, I’m Peter, a software developer focused on building web applications, automation tools, and scalable digital products.
 
