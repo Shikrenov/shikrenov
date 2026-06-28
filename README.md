@@ -14,8 +14,6 @@ I'm currently building **4astad**, an all-in-one marketing platform for managing
 
 An all-in-one marketing platform for managing Meta Ads, Google Ads, AI-generated creatives, and cross-platform campaign analytics.
 
-**Tech:** Next.js • TypeScript • Node.js
-
 🔗 **Repository:** https://github.com/4astad/web
 
 ---
@@ -24,8 +22,6 @@ An all-in-one marketing platform for managing Meta Ads, Google Ads, AI-generated
 
 A community-driven platform for discovering outdoor calisthenics parks, exploring available equipment, and tracking workout progress—all in one place.
 
-**Tech:** Next.js • TypeScript • Prisma • PostgreSQL • Mapbox
-
 🔗 **Repository:** https://github.com/Calistheni/calistheni-app
 
 ---
@@ -33,8 +29,6 @@ A community-driven platform for discovering outdoor calisthenics parks, explorin
 ### 💬 [Client Helper](https://github.com/clientHelper/clientHelper)
 
 A collaborative platform that helps clients visualize and refine website designs before development, reducing miscommunication and costly revisions.
-
-**Tech:** Next.js • TypeScript • Node.js
 
 🔗 **Repository:** https://github.com/clientHelper/clientHelper
 
