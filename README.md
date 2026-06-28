@@ -8,7 +8,7 @@ I'm currently building **4astad**, an all-in-one marketing platform for managing
 
 ---
 
-## 🚀 Latest Projects
+##  Latest Projects
 
 ### 📊 [4astad](https://github.com/4astad/web)
 
