@@ -2,27 +2,35 @@
 
 **Full-Stack Software Developer** from Bulgaria 🇧🇬
 
-I build modern web applications using **React, Next.js, TypeScript, Node.js, and PostgreSQL**. I enjoy turning ideas into real products—from designing scalable backends to creating polished user experiences.
+I build modern web applications using **React, Next.js, TypeScript, Node.js, and PostgreSQL**. I enjoy transforming ideas into production-ready software—from designing scalable backend systems to creating polished user experiences.
 
-I'm currently building **Iron Arenas**, a platform that helps people discover outdoor calisthenics parks worldwide and makes it easier to find places to train while traveling.
+I'm currently building **4astad**, an all-in-one marketing platform for managing Meta Ads, Google Ads, AI-generated creatives, and cross-platform campaign analytics.
 
 ---
 
-## 🚀 Currently Building
+## 🚀 Featured Projects
 
-### 🏋️ Iron Arenas
+### 📊 4astad
 
-A community-driven platform for discovering outdoor calisthenics parks, exploring available equipment, and tracking workout progress.
+An all-in-one marketing platform for managing Meta Ads, Google Ads, AI-generated creatives, and cross-platform campaign analytics.
+
+**Tech:** Next.js • TypeScript • Node.js
+
+---
+
+### 🏋️ Calistheni
+
+A community-driven platform for discovering outdoor calisthenics parks, exploring available equipment, and tracking workout progress—all in one place.
 
 **Tech:** Next.js • TypeScript • Prisma • PostgreSQL • Mapbox
 
-### 📊 Cross-Platform Ad Manager
-
-A unified dashboard for managing and comparing advertising campaigns across multiple platforms.
+---
 
 ### 💬 Client Helper
 
-A platform that helps clients visualize website designs before development, reducing revisions and improving communication.
+A collaborative platform that helps clients visualize and refine website designs before development, reducing miscommunication and costly revisions.
+
+**Tech:** Next.js • TypeScript • Node.js
 
 ---
 
@@ -65,12 +73,18 @@ A platform that helps clients visualize website designs before development, redu
 
 ## 🌱 Open Source
 
-I enjoy contributing to open-source projects, improving existing software, and collaborating with other developers through pull requests, bug fixes, and feature implementations.
+I enjoy contributing to open-source software and collaborating with the developer community.
+
+My latest contribution was to **Kaset**, an open-source macOS YouTube Music client, where I improved queue synchronization and playback behavior by handling edge cases when the playback queue became empty.
+
+Repository: https://github.com/sozercan/kaset
 
 ---
 
 ## 📫 Connect With Me
 
-- 📍 Sofia, Bulgaria
-- 💼 LinkedIn: https://linkedin.com/in/peter-shikrenov-b283a7271
-- 📧 shikrenov@proton.me
+📍 Sofia, Bulgaria
+
+💼 LinkedIn: https://linkedin.com/in/peter-shikrenov-b283a7271
+
+📧 shikrenov@proton.me
