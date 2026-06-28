@@ -80,11 +80,3 @@ My latest contribution was to **Kaset**, an open-source macOS YouTube Music clie
 🔗 **Repository:** https://github.com/sozercan/kaset
 
 ---
-
-## 📫 Connect With Me
-
-📍 Sofia, Bulgaria
-
-💼 LinkedIn: https://linkedin.com/in/peter-shikrenov-b283a7271
-
-📧 shikrenov@proton.me
