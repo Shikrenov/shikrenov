@@ -8,29 +8,35 @@ I'm currently building **4astad**, an all-in-one marketing platform for managing
 
 ---
 
-## Latest Projects
+## 🚀 Latest Projects
 
-### 📊 4astad
+### 📊 [4astad](https://github.com/4astad/web)
 
 An all-in-one marketing platform for managing Meta Ads, Google Ads, AI-generated creatives, and cross-platform campaign analytics.
 
 **Tech:** Next.js • TypeScript • Node.js
 
+🔗 **Repository:** https://github.com/4astad/web
+
 ---
 
-### 🏋️ Calistheni
+### 🏋️ [Calistheni](https://github.com/Calistheni/calistheni-app)
 
 A community-driven platform for discovering outdoor calisthenics parks, exploring available equipment, and tracking workout progress—all in one place.
 
 **Tech:** Next.js • TypeScript • Prisma • PostgreSQL • Mapbox
 
+🔗 **Repository:** https://github.com/Calistheni/calistheni-app
+
 ---
 
-### 💬 Client Helper
+### 💬 [Client Helper](https://github.com/clientHelper/clientHelper)
 
 A collaborative platform that helps clients visualize and refine website designs before development, reducing miscommunication and costly revisions.
 
 **Tech:** Next.js • TypeScript • Node.js
+
+🔗 **Repository:** https://github.com/clientHelper/clientHelper
 
 ---
 
@@ -77,7 +83,7 @@ I enjoy contributing to open-source software and collaborating with the develope
 
 My latest contribution was to **Kaset**, an open-source macOS YouTube Music client, where I improved queue synchronization and playback behavior by handling edge cases when the playback queue became empty.
 
-Repository: https://github.com/sozercan/kaset
+🔗 **Repository:** https://github.com/sozercan/kaset
 
 ---
 
